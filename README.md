@@ -1,6 +1,6 @@
 
 # Samia Jahan
-Hi. I'm Samia from Berlin, Germany. I'm doing master's in information and communication engineering in Berliner Hochschule für Technik (BHT) and am currently on my way to master's thesis. I enjoy playing around with data and I am skilled in SQL, Tableau, and Python. You can check out my projects in my portfolio website at https://samia1990.github.io/
+Hi. I'm Samia from Berlin, Germany. I'm doing master's in information and communication engineering in Berliner Hochschule für Technik (BHT) and currently on my way to master's thesis. I enjoy playing around with data and I am skilled in SQL, Tableau, and Python. You can check out my projects in my portfolio website at https://samia1990.github.io/
 
 ## Skills
 
